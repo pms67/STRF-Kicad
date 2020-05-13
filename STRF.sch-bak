@@ -1043,10 +1043,10 @@ Route as 50 Ohm controlled impedance traces.\nFollow datasheet regarding layout.
 Text Notes 4275 5475 0    50   ~ 0
 Passive antenna.
 $Comp
-L Connector:Conn_Coaxial J3
+L Connector:Conn_Coaxial J2
 U 1 1 5ED569CC
 P 6400 3950
-F 0 "J3" H 6500 3925 50  0000 L CNN
+F 0 "J2" H 6500 3925 50  0000 L CNN
 F 1 "SMA" H 6500 3834 50  0000 L CNN
 F 2 "Connector_Coaxial:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount" H 6400 3950 50  0001 C CNN
 F 3 " ~" H 6400 3950 50  0001 C CNN
@@ -1138,10 +1138,10 @@ Wire Notes Line
 Wire Notes Line
 	3850 2350 7350 2350
 $Comp
-L Connector_Generic:Conn_02x05_Odd_Even J2
+L Connector_Generic:Conn_02x05_Odd_Even J3
 U 1 1 5F091517
 P 8850 5575
-F 0 "J2" H 8900 5992 50  0000 C CNN
+F 0 "J3" H 8900 5992 50  0000 C CNN
 F 1 "ARM 10pin" H 8900 5901 50  0000 C CNN
 F 2 "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical" H 8850 5575 50  0001 C CNN
 F 3 "~" H 8850 5575 50  0001 C CNN
@@ -1220,10 +1220,10 @@ Wire Wire Line
 Wire Wire Line
 	8550 2450 8825 2450
 $Comp
-L power:GND #PWR?
+L power:GND #PWR028
 U 1 1 5F2F9240
 P 8550 2800
-F 0 "#PWR?" H 8550 2550 50  0001 C CNN
+F 0 "#PWR028" H 8550 2550 50  0001 C CNN
 F 1 "GND" H 8555 2627 50  0000 C CNN
 F 2 "" H 8550 2800 50  0001 C CNN
 F 3 "" H 8550 2800 50  0001 C CNN
