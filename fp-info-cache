@@ -1,4 +1,11 @@
-16925306355104734
+16936400012891622
+10118193-0001LF
+101181930001LF
+10118193-0001LF-1
+Connector
+0
+11
+11
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -46808,6 +46815,27 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+GDSPSilkscreen
+GDSPCore
+
+
+0
+0
+0
+GDSPSilkscreen
+GDSPLogo
+
+
+0
+0
+0
+GDSPSilkscreen
+Notes
+
+
+0
+0
+0
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -51309,6 +51337,20 @@ Yellow 5381 Series LED
 0
 2
 2
+MP2451DT-LF-Z
+SOT95P280X145-6N
+SOT23-6
+Integrated Circuit
+0
+6
+6
+MSS3-V-T_R
+MSS3VTR
+MSS3-V-T/R-1
+Switch
+0
+9
+9
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -68599,13 +68641,13 @@ rotary encoder
 0
 5
 4
-STRF-Silk
-STRF-Logo
-
-
+STM32H750VBT6
+QFP50P1600X1600X160-100N
+LQFP100-14x14
+Integrated Circuit
 0
-0
-0
+100
+100
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -69999,6 +70041,13 @@ Logo WEEE
 0
 0
 0
+TLV320AIC3104IRHBR
+QFN50P500X500X100-33N-D
+RHB (S-PVQFN-N32)-D
+Integrated Circuit
+0
+33
+33
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
