@@ -5,7 +5,7 @@ STM32L4-based RF-to-USB dongle using a low-power NRF24 2.4GHz transceiver.
 
 You can order this board (incl. SMT assembly) at [https://www.jlcpcb.com](https://www.jlcpcb.com). Gerber and assembly files are in the relevant repo folders.
 
-<img src="http://philsal.co.uk/wp-content/uploads/2020/05/STRF-3D.png"
+<img src="https://github.com/pms67/STRF-Kicad/raw/master/misc/STRF-3D-Screenshot.png"
      alt="STRF"
      style="display: block;
   margin-left: auto;
